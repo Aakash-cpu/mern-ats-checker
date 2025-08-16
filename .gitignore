@@ -1,0 +1,8 @@
+﻿node_modules/
+dist/
+.env
+**/.env
+backend/uploads/
+backend/reports/
+*.zip
+.DS_Store
